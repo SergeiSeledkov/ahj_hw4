@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5sl0js5b0cb290j6?svg=true)](https://ci.appveyor.com/project/SergeiSeledkov/ahj-hw3-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/prj105ate3ykx09w?svg=true)](https://ci.appveyor.com/project/SergeiSeledkov/ahj-hw4)
 
 https://sergeiseledkov.github.io/ahj_hw4/
 
